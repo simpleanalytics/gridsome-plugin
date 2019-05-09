@@ -9,7 +9,7 @@ To use [Simple Analytics Vue](https://www.npmjs.com/package/simple-analytics-vue
 
 ## Usage
 
-```
+```js
 module.exports = {
   plugins: [
     {
