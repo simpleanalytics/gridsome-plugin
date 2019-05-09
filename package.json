@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "name": "gridsome-plugin-modal",
-  "description": "Modal plugin for Gridsome",
+  "version": "1.0.0",
+  "name": "gridsome-plugin-simple-analytics",
+  "description": "Simple Analytics plugin for Gridsome",
   "homepage": "https://github.com/sergeyfilimonov/gridsome-plugin-modal#readme",
   "repository": "https://github.com/sergeyfilimonov/gridsome-plugin-modal",
   "main": "gridsome.client.js",
-  "author": "Sergey Filimonov <email@sergeyfilimonov.com>",
+  "author": "Adriaan van Rossum <npm.gridsome.19287@adriaan.email>",
   "license": "MIT",
   "files": [
     "gridsome.client.js"
@@ -13,13 +13,18 @@
   "keywords": [
     "gridsome",
     "gridsome-plugin",
-    "modal"
+    "simpleanalytics",
+    "privacy",
+    "statistics",
+    "simple analytics",
+    "alytics",
+    "simple"
   ],
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "vue-js-modal": "^1.3.28"
+    "simple-analytics-vue": "^1.0.5"
   },
   "engines": {
     "node": ">=8"
