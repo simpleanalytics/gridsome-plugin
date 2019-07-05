@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
   "name": "gridsome-plugin-simple-analytics",
   "description": "Simple Analytics plugin for Gridsome",
   "homepage": "https://github.com/simpleanalytics/gridsome-plugin#readme",
@@ -24,7 +24,7 @@
     "access": "public"
   },
   "dependencies": {
-    "simple-analytics-vue": "^1.0.5"
+    "simple-analytics-vue": "^1.1.0"
   },
   "engines": {
     "node": ">=8"
