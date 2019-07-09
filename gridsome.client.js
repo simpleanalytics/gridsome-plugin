@@ -9,8 +9,11 @@ import SimpleAnalytics from "simple-analytics-vue";
  * @param context.isClient
  * @param context.isServer
  */
-export default function (Vue) {
+export default function (Vue, options) {
   if (process.isClient) {
-    Vue.use(SimpleAnalytics, { skip: process.env.NODE_ENV !== 'production' });
+    Vue.use(SimpleAnalytics, { 
+      skip: process.env.NODE_ENV !== 'production',
+      domain: options.domain
+    });
   }
 }
