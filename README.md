@@ -1,4 +1,8 @@
-# Simple Analytics for Gridsome
+<a href="https://simpleanalytics.com/?ref=github.com/simpleanalytics/gridsome-plugin">
+  <img src="https://assets.simpleanalytics.com/images/logos/logo-github-readme.png" alt="Simple Analytics logo" align="right" height="62" />
+</a>
+
+# Gridsome Plugin
 
 [Simple Analytics](https://simpleanalytics.com) is a clean, simple, and privacy friendly analytics tool. Actionable data in a beautiful dashboard. It does not use cookies and you can bypass ad blockers. Make sure to signup to get most value out of this plugin.
 
